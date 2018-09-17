@@ -20,7 +20,7 @@ public class Java8Tester {
         names2.add("Runoob ");
         names2.add("Taobao ");
         names2.add("Baidu ");
-        names2.add("Sin东方森a ");
+        names2.add("Sin ");
 
         Java8Tester tester = new Java8Tester();
 
